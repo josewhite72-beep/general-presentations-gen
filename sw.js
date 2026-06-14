@@ -1,4 +1,4 @@
-const CACHE_NAME = 'gpg-v1';
+const CACHE_NAME = 'gpg-v3';
 
 const STATIC_ASSETS = [
   './index.html',
